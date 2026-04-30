@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://worknoon.com/#founder",
+  "name": "Worknoon Founder",
+  "jobTitle": "Founder & CEO",
+  "url": "https://worknoon.com/about",
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "https://worknoon.com/#organization",
+    "name": "Worknoon"
+  },
+  "description": "Founder of Worknoon, a platform dedicated to connecting businesses with top remote talent.",
+  "sameAs": [
+    "https://www.linkedin.com/in/worknoon-founder",
+    "https://twitter.com/worknoon_founder"
+  ],
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://worknoon.com/wp-content/uploads/founder-photo.jpg"
+  }
+}
